@@ -1,6 +1,9 @@
+body {
+    background: #ced;
+}
 div {
     position: absolute;
-    border: 0.75vmin solid;
+    /* border: 0.75vmin solid; */
     top:55%;
     left: 50%;
     transform: translate(-50%,-50%);
