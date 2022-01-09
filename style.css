@@ -60,7 +60,7 @@ div::after {
      repeating-linear-gradient(to right, transparent 0 9.5%, #2222 0 10%) */
      ;
     background-repeat: no-repeat;
-    background-color: #f0000004;
+    /* background-color: #f0000004; */
     transform: translate(-50%, -51%) rotate(45deg);
 }
 
